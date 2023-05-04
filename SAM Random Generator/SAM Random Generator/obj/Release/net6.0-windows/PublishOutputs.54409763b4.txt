@@ -1,0 +1,5 @@
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\publish\SAM Random Generator.exe
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\publish\SAM Random Generator.dll
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\publish\SAM Random Generator.deps.json
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\publish\SAM Random Generator.runtimeconfig.json
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\publish\SAM Random Generator.pdb

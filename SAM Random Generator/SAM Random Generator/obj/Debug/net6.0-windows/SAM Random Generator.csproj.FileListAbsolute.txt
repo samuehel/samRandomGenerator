@@ -1,0 +1,22 @@
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM_Random_Generator.FormMainMenu.resources
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM_Random_Generator.Properties.Resources.resources
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.AssemblyInfo.cs
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\Debug\net6.0-windows\SAM Random Generator.exe
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\Debug\net6.0-windows\SAM Random Generator.deps.json
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\Debug\net6.0-windows\SAM Random Generator.runtimeconfig.json
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\Debug\net6.0-windows\SAM Random Generator.dll
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\bin\Debug\net6.0-windows\SAM Random Generator.pdb
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.dll
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\refint\SAM Random Generator.dll
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.pdb
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM Random Generator.genruntimeconfig.cache
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\ref\SAM Random Generator.dll
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM_Random_Generator.Forms.FormIdentity.resources
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM_Random_Generator.Forms.FormPassword.resources
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM_Random_Generator.Forms.FormSettings.resources
+C:\Users\samue\source\repos\SAM Random Generator\SAM Random Generator\obj\Debug\net6.0-windows\SAM_Random_Generator.Forms.FormUsername.resources
